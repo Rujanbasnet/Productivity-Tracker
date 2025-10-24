@@ -1,0 +1,5 @@
+{
+  "name": "Productivity Tracker",
+  "description": "A productivity-focused, offline-first application to manage tasks and track habits. Designed for mobile use, it works anywhere, anytime, without needing an internet connection.",
+  "requestFramePermissions": []
+}
